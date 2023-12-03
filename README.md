@@ -11,7 +11,7 @@ As expected I do coding on my free time, mostly some IoT and game development st
 
 Feel free to connect with me on Linkedin
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/giovanni-de-rosso-unruh/](https://www.linkedin.com/in/franklin-ronaldo-martins-tavares-junior/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/franklin-ronaldo-martins-tavares-junior/)
 
 
 

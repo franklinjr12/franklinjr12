@@ -4,7 +4,7 @@
 I'm a electrical engineer ⚡ 
 
 # Technollogies
-I work mainly with C++ and backend services also use Python, Golang but I already worked with Java, Javascript and Ruby 💻
+I work mainly with C++ and backend services also use Golang & Python, but I already worked with Ruby, Java and Javascript  💻
 
 # Hobies
 As expected I do coding on my free time, mostly some IoT and game development stuff, but I also enjoy a lot playing games and martial arts
